@@ -1,0 +1,3 @@
+= Redis logger
+
+A logger based of redis to use with Rails or to log your method actions.

@@ -1,0 +1,4 @@
+TODO list:
+
+* make the logger pluggable to Rails
+* use .yml file for redis conf
